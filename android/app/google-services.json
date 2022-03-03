@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93149142618",
+    "project_id": "iter-material",
+    "storage_bucket": "iter-material.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93149142618:android:1aa99dae43f79667104263",
+        "android_client_info": {
+          "package_name": "com.pawan.itermaterials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93149142618-k3rh0uo2u09i5a56ht3tkbdmf97osacp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4fWARFwoOo1BLXfIU3IA38qENG3c3Fxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93149142618-k3rh0uo2u09i5a56ht3tkbdmf97osacp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
