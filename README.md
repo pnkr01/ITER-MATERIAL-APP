@@ -23,5 +23,5 @@ IDEAS:
 
 Want to discuss something ? 
 Connect with Us :
-1. Slack [![SLACK](https://join.slack.com/t/newworkspace-l2p6883/shared_invite/zt-16ctherbb-auY9UfkIzp5sEEEI2sBc9w)]
-2. Telegram [![Telegram](https://t.me/+b9s9w7epDm8zZDU1)]
+1. Slack [SLACK](https://join.slack.com/t/newworkspace-l2p6883/shared_invite/zt-16ctherbb-auY9UfkIzp5sEEEI2sBc9w)
+2. Telegram [Telegram](https://t.me/+b9s9w7epDm8zZDU1)
