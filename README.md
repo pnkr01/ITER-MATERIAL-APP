@@ -1,6 +1,6 @@
 # ITER MATERIAL APP
 
-PS : Often Students Need severals Educational Stuffs During Exam, and they don't get at one place, Making them inadeqaute in Exams, We want to solve that Problem for both Student as well as fest organizer in our college.
+PS : Often Students Need severals Educational Stuffs During Exam, and they don't get at one place, Making them inadeqaute in Exams, We want to solve that Problem for both Student as well as for fest organizer in our college.
 
 
 ![1](https://user-images.githubusercontent.com/83778936/156609207-252eb7d6-00c1-492c-9612-bc02b344d2e4.jpg)
@@ -18,6 +18,7 @@ IDEAS:
 2. Instead of Hard Coded Messeges, change all to firebase and fetch them to App.
 3. Intead of going to linking Gwebsite we want this to to render nicely within the app without any back links.
 4. Any Good Innovation that you want to apply.
+5. Add more features for fest organizer.
 
 
 Want to discuss something ? 
